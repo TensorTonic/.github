@@ -2,7 +2,7 @@
 
 [TensorTonic](https://www.tensortonic.com) is a practice platform for machine learning. You write ML algorithms, GPU kernels and research paper architectures from scratch in the browser, and every submission is checked against tests.
 
-The site has more than 800 coding problems in NumPy and PyTorch, CUDA and Triton kernels that run on real GPUs, and lessons with interactive visualizations. The repositories below are free roadmaps that link each topic to an explanation and a practice problem on the site.
+The site has 1,400+ problems, from ML algorithms in NumPy and PyTorch to CUDA and Triton kernels that run on real GPUs, research papers and projects, along with lessons that use interactive visualizations. The repositories below are free roadmaps that link each topic to an explanation and a practice problem on the site.
 
 ## Foundations
 
